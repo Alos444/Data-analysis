@@ -3,7 +3,7 @@
 Analysing brfss_for_bda_2021.csv data set which describes a survey around
 health and associated behavioural factors carried out on a population in the US.
 
-### We stated the three business or research questions  to answer through our analysis.
+### We stated the three research questions to answer through our analysis.
 
 ### Processing the data
 
